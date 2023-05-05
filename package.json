@@ -1,0 +1,22 @@
+{
+  "name": "scrapewebber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  },
+  "dependencies": {
+    "msnodesqlv8": "^3.1.0",
+    "mssql": "^9.1.1",
+    "puppeteer": "^20.1.0",
+    "puppeteer-core": "^19.11.1",
+    "sql": "^0.78.0"
+  }
+}

@@ -1,0 +1,2 @@
+C:\Users\beckv\Downloads\ScrapeWebber\obj\Debug\ScrapeWebber.esproj.SuggestedBindingRedirects.cache
+C:\Users\beckv\Downloads\ScrapeWebber\obj\Debug\ScrapeWebber.esproj.CoreCompileInputs.cache
